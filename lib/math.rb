@@ -22,7 +22,8 @@ def modulo(num1, num2)
   result = (num1 % num2)
 end
 
-def square_root(num)
-  result = (num1 ** num2)
+def square_root(num1)
+  result = (num1 ** num1)
   puts result
 end
+
